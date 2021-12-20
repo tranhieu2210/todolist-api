@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Đi net",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "Đi chợ",
+      "status": false
+    },
+    {
+      "id": 4,
+      "title": "Mua máy tính",
+      "status": false
+    },
+    {
+      "id": 3,
+      "title": "Mua Macbook",
+      "status": true
+    },
+    {
+      "id": 5,
+      "title": "Độ lốp Michelin",
+      "status": true
+    }
+  ]
+}
